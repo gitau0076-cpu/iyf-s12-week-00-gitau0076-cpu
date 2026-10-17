@@ -33,9 +33,12 @@
   console .log("Hello, Citizens!");
   }
   greet() ;
+
  ## Blockquote 
-  >"The best way to get started is to quit talking and begin doing." 
+  >"The best way to get started is to quit talking and begin doing."
+
   <!--Bonus-->
+
   # About 
   ## Learning Goals
   ### This Semester
