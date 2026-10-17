@@ -14,9 +14,10 @@
 - Database
   
 ## Setup
-- git config --global user.name "gitau0076-cpu"
-- git config --global user.email "gitau0076@gmail.com
-
+```text
+user.name gitau0076-cpu
+user.email "gitau0076@gmail.com"
+```
 ## Links
 * [Live page](https://github.com/gitau0076-cpu/gitau0076-cpu.github.io)
 * [Markdown](https://github.com/gitau0076-cpu/iyf-s12-week-00-gitau0076-cpu/blob/main/markdown-practice.md)
