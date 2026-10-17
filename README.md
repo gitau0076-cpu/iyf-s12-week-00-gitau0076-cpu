@@ -18,9 +18,9 @@
 - git config --global user.email "gitau0076@gmail.com
 
 ## Links
-- Live page
-- Markdown
-- Team Repository
+* [Live page](https://github.com/gitau0076-cpu/gitau0076-cpu.github.io)
+* [Markdown](https://github.com/gitau0076-cpu/iyf-s12-week-00-gitau0076-cpu/blob/main/markdown-practice.md)
+* [Team Repository]( https://github.com/HellenWamuciiNjue/iyf-s12-week-00-team-HellenWamuciiNjue)
 
 ## How to Reach Me
 - Email: nyanjihia98@gmail.com
