@@ -34,7 +34,7 @@
   }
   greet() ;
 ```
- ## Blockquote 
+ ## Block Quote 
   >"The best way to get started is to quit talking and begin doing."
 
   <!--Bonus-->
@@ -48,6 +48,6 @@
    - React
    - Java script
    ## Link
-   [My GitHub Profile](https://github.com/gitau0076-cpu)
-    ## Blockquote
+ [My GitHub Profile](https://github.com/gitau0076-cpu)
+   ##  Block Quote
    > "Practice makes better."
