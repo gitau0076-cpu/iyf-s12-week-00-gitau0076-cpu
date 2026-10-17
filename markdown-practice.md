@@ -1,11 +1,8 @@
-<h1>Headings</h1>
-<h2>My Learning Goals</h2>
-<h3> This Semester</h3>
-<h1>Text formatting</h1>
-<p>I am learning <b> coding</b> while practicing <i> new skills</i> </p>
-<h1>Links</h1>
-<ul>
-   <li><a href="https://github.com/gitau0076-cpu/Gitau0076">github</a></li>
+# Headings
+## My Learning Goals
+### This Semester
+**I am learning < coding</b> while practicing <i> new skills</i> 
+* [My Github Profile ] https://github.com/gitau0076-cpu/Gitau0076">github
    <li><a href="https://www.linkedin.com/in/florence-gitau-480874358">linkedin</a></li>
 </ul>
 
