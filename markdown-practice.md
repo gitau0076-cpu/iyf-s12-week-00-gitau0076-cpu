@@ -1,7 +1,7 @@
 # Headings
 ## My Learning Goals
 ### This Semester
-- I am learning **coding**while *practicing* `new skills`.
+I am learning **coding** while *practicing* `new skills`.
 ## Links
 - Check out my [Github Profile](https://github.com/gitau0076-cpu)
 - Live Website [live page](https://github.com/gitau0076-cpu/gitau0076-cpu.github.io)
